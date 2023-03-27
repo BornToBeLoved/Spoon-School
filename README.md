@@ -69,7 +69,7 @@ brew install assimp
 ```
 </br></br>
 #### 3-1-3. install our source code
-https://github.com/keynekassapa13/solar-system
+
 
 </br></br>
 ### 3-2. how to play
